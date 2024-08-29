@@ -10,7 +10,6 @@ This project is a simple HTML-based web page that presents a Buy One Get One (BO
 - [Usage](#usage)
 - [Setup](#setup)
 - [Customization](#customization)
-- [License](#license)
 
 ## Features
 
@@ -22,7 +21,8 @@ This project is a simple HTML-based web page that presents a Buy One Get One (BO
 - **Powered by Pumper:** Footer section credits the project to "Pumper."
 
 ## Project Structure
-```plaintext
+
+```bash
 bogo-cart/
 │
 ├── css/
@@ -33,6 +33,8 @@ bogo-cart/
 │
 ├── index.html           # Main HTML file
 └── README.md            # Documentation file
+
+```
 
 ## Technologies Used
 
@@ -47,7 +49,6 @@ bogo-cart/
 3. Select an offer by clicking on the respective card.
 4. Choose sizes and colors for the products in the selected offer.
 5. The total price will update automatically.
-6. Once an offer is selected, the "Add to Cart" button will be enabled.
 
 ## Setup
 
